@@ -1,3 +1,10 @@
 venv/
 plugins/
 dags/.env
+include/dbt/spotify_dbt/analyses/
+include/dbt/spotify_dbt/macros/
+include/dbt/spotify_dbt/seeds/
+include/dbt/spotify_dbt/snapshots/
+include/dbt/spotify_dbt/target/
+include/dbt/spotify_dbt/tests/
+__pycache__/
