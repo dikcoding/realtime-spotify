@@ -142,7 +142,7 @@ REALTIME-SPOTIFY-PROJECT/
 
 ---
 
-### 6. Visualization in Power BI
+### 6. Visualization in Metabase
 
 - Connected directly to **Snowflake Gold layer**.
 
